@@ -258,7 +258,7 @@ export const guest = (() => {
             text: 'The Wedding of Adam and Maya Karin',
             dates: `${formatDate('2026-07-04 10:00')}/${formatDate('2026-07-04 17:00')}`,
             details: 'Dengan penuh rasa hormat, kami menjemput anda untuk sudi hadir ke majlis perkahwinan kami. Terima kasih atas perhatian dan doa restu anda, yang menjadi kebahagiaan serta kehormatan besar bagi kami.',
-            location: 'RT 10 RW 02, Desa Pajerukan, Kec. Kalibagor, Kab. Banyumas, Jawa Tengah 53191.',
+            location: 'Kampung Endah, 42700 Banting, Selangor.',
             ctz: config.get('tz'),
         });
 
